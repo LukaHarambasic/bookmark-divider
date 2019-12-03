@@ -1,5 +1,7 @@
 # Bookmark Divider
 
+![Create Divider](md/teaser.png)
+
 A browser independent bookmark divider (Google Chrome, Firefox, Safari, Internet Explorer, Microsoft Edge). It works perfectly with light and dark themes due to its binary nature.
 
 You can clone this complex repository or just use the [hosted version on netlify](https://bookmark-divider.netlify.com/).
@@ -25,6 +27,18 @@ If you have too many bookmarks it can be easier to just use the favicons. But fa
 4. (Optional) If you want "Named Seperators" give them a name followed by a colon.
 
   ![Named Divider](md/named.png)
+
+---
+
+## Mode
+
+### Dark
+
+![Create Divider](md/teaser_dark.png)
+
+### Light
+
+![Create Divider](md/teaser_light.png)
 
 ---
 
