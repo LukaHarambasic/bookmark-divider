@@ -1,6 +1,6 @@
 # bookmark-divider
 
-Just a tool to separate bookmarks. It works perfectly with light and dark themes due to its almost binary nature.
+A browser independent bookmark separator. It works perfectly with light and dark themes due to its binary nature.
 
 You can clone this complex repository or just use the [hosted version on netlify](https://bookmark-divider.netlify.com/).
 
