@@ -1,4 +1,4 @@
-# bookmark-divider
+# Bookmark Divider
 
 A browser independent bookmark separator. It works perfectly with light and dark themes due to its binary nature.
 
