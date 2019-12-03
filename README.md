@@ -42,4 +42,4 @@ If you have too many bookmarks it can be easier to just use the favicons. But fa
 
 ---
 
-Inspired by [https://su.at/archive/bookmark/](https://su.at/archive/bookmark/).
+Inspired by [https://github.com/FirePanther](FirePanthers) [https://su.at/archive/bookmark/](bookmark).
